@@ -1,0 +1,9 @@
+@import url('bootstrap.css');
+@import url('bootstrap.js');
+
+
+
+.red-block {
+	background-color:red;
+	border: 2px #fff solid;
+}
